@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\bin\Debug\lab-data.exe.config
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\bin\Debug\lab-data.exe
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\bin\Debug\lab-data.pdb
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\obj\Debug\lab-data.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\obj\Debug\lab-data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\obj\Debug\lab-data.exe
+C:\Users\Administrator\Desktop\Lab\lab-data\lab-data\obj\Debug\lab-data.pdb

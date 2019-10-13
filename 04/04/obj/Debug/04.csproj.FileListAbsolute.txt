@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\04\04\bin\Debug\04.exe.config
+C:\Users\Administrator\source\repos\04\04\bin\Debug\04.exe
+C:\Users\Administrator\source\repos\04\04\bin\Debug\04.pdb
+C:\Users\Administrator\source\repos\04\04\obj\Debug\04.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\04\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\04\04\obj\Debug\04.exe
+C:\Users\Administrator\source\repos\04\04\obj\Debug\04.pdb

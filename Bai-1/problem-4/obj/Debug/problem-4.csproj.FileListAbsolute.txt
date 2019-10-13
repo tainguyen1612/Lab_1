@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\obj\Debug\problem-4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\obj\Debug\problem-4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\bin\Debug\problem-4.exe.config
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\bin\Debug\problem-4.exe
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\bin\Debug\problem-4.pdb
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\obj\Debug\problem-4.exe
+C:\Users\Administrator\Desktop\Lab\Bai-1\problem-4\obj\Debug\problem-4.pdb

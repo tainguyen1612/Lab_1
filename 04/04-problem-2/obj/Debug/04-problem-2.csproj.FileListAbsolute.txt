@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\04\04-problem-2\obj\Debug\04-problem-2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\04\04-problem-2\bin\Debug\04-problem-2.exe.config
+C:\Users\Administrator\source\repos\04\04-problem-2\bin\Debug\04-problem-2.exe
+C:\Users\Administrator\source\repos\04\04-problem-2\bin\Debug\04-problem-2.pdb
+C:\Users\Administrator\source\repos\04\04-problem-2\obj\Debug\04-problem-2.exe
+C:\Users\Administrator\source\repos\04\04-problem-2\obj\Debug\04-problem-2.pdb
